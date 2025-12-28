@@ -1,0 +1,12 @@
+{
+    "name": "vidmerge-licensing",
+    "version": "1.0.0",
+    "description": "Licensing backend for VidMerge Pro",
+    "main": "api/verify.js",
+    "scripts": {
+        "dev": "vercel dev"
+    },
+    "dependencies": {
+        "mongodb": "^6.3.0"
+    }
+}
